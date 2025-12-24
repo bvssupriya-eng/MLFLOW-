@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Win11/Desktop/mlops-test/mlruns/0/3723d909905d42dd8231bd0d1a5c227a/artifacts
+end_time: 1765822562630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3723d909905d42dd8231bd0d1a5c227a
+run_name: enthused-crow-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765822556209
+status: 3
+tags: []
+user_id: Win11
